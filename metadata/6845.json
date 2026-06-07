@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #6845",
+  "description": "DarkPunks NFT Collection Item #6845",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/6845.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    }
+  ]
+}

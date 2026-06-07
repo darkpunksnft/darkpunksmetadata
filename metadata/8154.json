@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #8154",
+  "description": "DarkPunks NFT Collection Item #8154",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/8154.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Vape"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Knitted Cap"
+    }
+  ]
+}

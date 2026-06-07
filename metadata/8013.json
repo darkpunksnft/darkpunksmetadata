@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #8013",
+  "description": "DarkPunks NFT Collection Item #8013",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/8013.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Normal Beard Black"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild Hair"
+    }
+  ]
+}

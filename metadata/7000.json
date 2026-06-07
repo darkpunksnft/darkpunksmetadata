@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #7000",
+  "description": "DarkPunks NFT Collection Item #7000",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/7000.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Messy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Classic Shades"
+    }
+  ]
+}

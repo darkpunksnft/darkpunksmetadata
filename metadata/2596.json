@@ -1,0 +1,23 @@
+{
+  "name": "DarkPunk #2596",
+  "description": "DarkPunks NFT Collection Item #2596",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/2596.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Eye Shadow"
+    }
+  ]
+}

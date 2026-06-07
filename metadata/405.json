@@ -1,0 +1,23 @@
+{
+  "name": "DarkPunk #405",
+  "description": "DarkPunks NFT Collection Item #405",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/405.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Messy Hair"
+    }
+  ]
+}

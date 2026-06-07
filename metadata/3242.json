@@ -1,0 +1,35 @@
+{
+  "name": "DarkPunk #3242",
+  "description": "DarkPunks NFT Collection Item #3242",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/3242.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Peak Spike"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Chinstrap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    }
+  ]
+}

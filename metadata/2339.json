@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #2339",
+  "description": "DarkPunks NFT Collection Item #2339",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/2339.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mohawk Thin"
+    }
+  ]
+}

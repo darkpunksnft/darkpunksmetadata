@@ -1,0 +1,35 @@
+{
+  "name": "DarkPunk #7348",
+  "description": "DarkPunks NFT Collection Item #7348",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/7348.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Vape"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Half Shaved"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    }
+  ]
+}

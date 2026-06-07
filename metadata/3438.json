@@ -1,0 +1,39 @@
+{
+  "name": "DarkPunk #3438",
+  "description": "DarkPunks NFT Collection Item #3438",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/3438.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    }
+  ]
+}

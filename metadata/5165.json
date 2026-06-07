@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #5165",
+  "description": "DarkPunks NFT Collection Item #5165",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/5165.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mohawk Dark"
+    }
+  ]
+}

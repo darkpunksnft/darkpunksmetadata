@@ -1,0 +1,35 @@
+{
+  "name": "DarkPunk #2923",
+  "description": "DarkPunks NFT Collection Item #2923",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/2923.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Stringy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Buck Teeth"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Regular Shades"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #6782",
+  "description": "DarkPunks NFT Collection Item #6782",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/6782.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Eye Patch"
+    }
+  ]
+}

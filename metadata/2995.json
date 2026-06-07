@@ -1,0 +1,23 @@
+{
+  "name": "DarkPunk #2995",
+  "description": "DarkPunks NFT Collection Item #2995",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/2995.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Eye Patch"
+    }
+  ]
+}

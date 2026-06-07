@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #3580",
+  "description": "DarkPunks NFT Collection Item #3580",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/3580.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Knitted Cap"
+    }
+  ]
+}

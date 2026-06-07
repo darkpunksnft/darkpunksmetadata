@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #8532",
+  "description": "DarkPunks NFT Collection Item #8532",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/8532.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Buck Teeth"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Top Hat"
+    }
+  ]
+}

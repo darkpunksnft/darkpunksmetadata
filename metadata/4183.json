@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #4183",
+  "description": "DarkPunks NFT Collection Item #4183",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/4183.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild Blonde"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Regular Shades"
+    }
+  ]
+}

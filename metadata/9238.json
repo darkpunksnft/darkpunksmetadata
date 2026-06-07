@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #9238",
+  "description": "DarkPunks NFT Collection Item #9238",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/9238.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Shaved Head"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Regular Shades"
+    }
+  ]
+}

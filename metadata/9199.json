@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #9199",
+  "description": "DarkPunks NFT Collection Item #9199",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/9199.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Vape"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mustache"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Headband"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #1552",
+  "description": "DarkPunks NFT Collection Item #1552",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/1552.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Dark Hair"
+    }
+  ]
+}

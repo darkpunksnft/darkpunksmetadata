@@ -1,0 +1,23 @@
+{
+  "name": "DarkPunk #8857",
+  "description": "DarkPunks NFT Collection Item #8857",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/8857.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Undead"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "3D Glasses"
+    }
+  ]
+}

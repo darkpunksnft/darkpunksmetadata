@@ -1,0 +1,35 @@
+{
+  "name": "DarkPunk #8761",
+  "description": "DarkPunks NFT Collection Item #8761",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/8761.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Front Beard Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Regular Shades"
+    }
+  ]
+}

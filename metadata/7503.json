@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #7503",
+  "description": "DarkPunks NFT Collection Item #7503",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/7503.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Spots"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Blonde Short"
+    }
+  ]
+}

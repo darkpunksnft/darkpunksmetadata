@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #9853",
+  "description": "DarkPunks NFT Collection Item #9853",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/9853.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Hair Green"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Regular Shades"
+    }
+  ]
+}

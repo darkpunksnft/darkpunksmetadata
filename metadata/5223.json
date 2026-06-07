@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #5223",
+  "description": "DarkPunks NFT Collection Item #5223",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/5223.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Beard"
+    }
+  ]
+}

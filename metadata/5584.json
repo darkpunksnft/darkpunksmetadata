@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #5584",
+  "description": "DarkPunks NFT Collection Item #5584",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/5584.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Messy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Eye Patch"
+    }
+  ]
+}

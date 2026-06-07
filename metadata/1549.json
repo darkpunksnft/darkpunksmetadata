@@ -1,0 +1,23 @@
+{
+  "name": "DarkPunk #1549",
+  "description": "DarkPunks NFT Collection Item #1549",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/1549.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cap Forward"
+    }
+  ]
+}

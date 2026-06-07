@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #1923",
+  "description": "DarkPunks NFT Collection Item #1923",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/1923.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Vape"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Goat"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #1750",
+  "description": "DarkPunks NFT Collection Item #1750",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/1750.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Eye Mask"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild Blonde"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Lipstick"
+    }
+  ]
+}

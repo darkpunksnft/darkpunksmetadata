@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #5674",
+  "description": "DarkPunks NFT Collection Item #5674",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/5674.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Stringy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Front Beard Dark"
+    }
+  ]
+}

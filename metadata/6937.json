@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #6937",
+  "description": "DarkPunks NFT Collection Item #6937",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/6937.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Normal Beard Black"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Small Shades"
+    }
+  ]
+}

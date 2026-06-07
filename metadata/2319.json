@@ -1,0 +1,39 @@
+{
+  "name": "DarkPunk #2319",
+  "description": "DarkPunks NFT Collection Item #2319",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/2319.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Rosy Cheeks"
+    }
+  ]
+}

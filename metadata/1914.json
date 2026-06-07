@@ -1,0 +1,35 @@
+{
+  "name": "DarkPunk #1914",
+  "description": "DarkPunks NFT Collection Item #1914",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/1914.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Hot Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Classic Shades"
+    }
+  ]
+}

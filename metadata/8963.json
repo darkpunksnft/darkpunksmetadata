@@ -1,0 +1,35 @@
+{
+  "name": "DarkPunk #8963",
+  "description": "DarkPunks NFT Collection Item #8963",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/8963.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Shaved Head"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Eyes Green"
+    }
+  ]
+}

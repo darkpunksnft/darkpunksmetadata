@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #2017",
+  "description": "DarkPunks NFT Collection Item #2017",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/2017.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Messy Hair"
+    }
+  ]
+}

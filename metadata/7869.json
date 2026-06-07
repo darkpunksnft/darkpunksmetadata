@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #7869",
+  "description": "DarkPunks NFT Collection Item #7869",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/7869.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Medical Mask"
+    }
+  ]
+}

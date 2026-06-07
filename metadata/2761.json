@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #2761",
+  "description": "DarkPunks NFT Collection Item #2761",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/2761.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Straight Hair Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nerd Glasses"
+    }
+  ]
+}

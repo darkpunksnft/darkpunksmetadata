@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #5615",
+  "description": "DarkPunks NFT Collection Item #5615",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/5615.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Orange Side"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Hot Lipstick"
+    }
+  ]
+}

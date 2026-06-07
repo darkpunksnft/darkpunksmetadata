@@ -1,0 +1,23 @@
+{
+  "name": "DarkPunk #2768",
+  "description": "DarkPunks NFT Collection Item #2768",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/2768.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nerd Glasses"
+    }
+  ]
+}

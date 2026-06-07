@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #6686",
+  "description": "DarkPunks NFT Collection Item #6686",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/6686.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Eyes Green"
+    }
+  ]
+}

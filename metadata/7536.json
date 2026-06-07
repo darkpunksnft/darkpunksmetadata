@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #7536",
+  "description": "DarkPunks NFT Collection Item #7536",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/7536.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Luxurious Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Crazy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mole"
+    }
+  ]
+}

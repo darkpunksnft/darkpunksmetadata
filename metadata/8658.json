@@ -1,0 +1,35 @@
+{
+  "name": "DarkPunk #8658",
+  "description": "DarkPunks NFT Collection Item #8658",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/8658.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Smile"
+    }
+  ]
+}

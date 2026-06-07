@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #5344",
+  "description": "DarkPunks NFT Collection Item #5344",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/5344.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Buck Teeth"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    }
+  ]
+}

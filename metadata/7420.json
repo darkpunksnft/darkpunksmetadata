@@ -1,0 +1,35 @@
+{
+  "name": "DarkPunk #7420",
+  "description": "DarkPunks NFT Collection Item #7420",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/7420.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Tassle Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Horned Rim Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Rosy Cheeks"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #9311",
+  "description": "DarkPunks NFT Collection Item #9311",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/9311.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pink With Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Eyes Blue"
+    }
+  ]
+}

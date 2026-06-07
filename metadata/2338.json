@@ -1,0 +1,19 @@
+{
+  "name": "DarkPunk #2338",
+  "description": "DarkPunks NFT Collection Item #2338",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/2338.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Undead"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mohawk Thin"
+    }
+  ]
+}

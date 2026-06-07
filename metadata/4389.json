@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #4389",
+  "description": "DarkPunks NFT Collection Item #4389",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/4389.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nerd Glasses"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "DarkPunk #7331",
+  "description": "DarkPunks NFT Collection Item #7331",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/7331.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Luxurious Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Knitted Cap"
+    }
+  ]
+}

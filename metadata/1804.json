@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #1804",
+  "description": "DarkPunks NFT Collection Item #1804",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/1804.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Messy Hair"
+    }
+  ]
+}

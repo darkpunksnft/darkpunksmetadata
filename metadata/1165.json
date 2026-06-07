@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #1165",
+  "description": "DarkPunks NFT Collection Item #1165",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/1165.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Vape"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Hot Lipstick"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "DarkPunk #7093",
+  "description": "DarkPunks NFT Collection Item #7093",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/7093.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pigtails"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
+    }
+  ]
+}

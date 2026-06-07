@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #816",
+  "description": "DarkPunks NFT Collection Item #816",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/816.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mole"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #6019",
+  "description": "DarkPunks NFT Collection Item #6019",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/6019.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Shaved Head"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Regular Shades"
+    }
+  ]
+}

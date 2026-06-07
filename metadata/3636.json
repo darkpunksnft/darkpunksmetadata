@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #3636",
+  "description": "DarkPunks NFT Collection Item #3636",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/3636.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Undead"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Front Beard Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Top Hat"
+    }
+  ]
+}

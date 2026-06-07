@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #4473",
+  "description": "DarkPunks NFT Collection Item #4473",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/4473.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pipe"
+    }
+  ]
+}

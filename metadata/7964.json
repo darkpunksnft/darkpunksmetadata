@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #7964",
+  "description": "DarkPunks NFT Collection Item #7964",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/7964.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Classic Shades"
+    }
+  ]
+}

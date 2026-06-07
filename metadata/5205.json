@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #5205",
+  "description": "DarkPunks NFT Collection Item #5205",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/5205.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Police Cap"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #2418",
+  "description": "DarkPunks NFT Collection Item #2418",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/2418.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Messy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "3D Glasses"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "DarkPunk #9611",
+  "description": "DarkPunks NFT Collection Item #9611",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/9611.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Luxurious Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Horned Rim Glasses"
+    }
+  ]
+}

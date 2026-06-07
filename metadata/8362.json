@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #8362",
+  "description": "DarkPunks NFT Collection Item #8362",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/8362.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Messy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Smile"
+    }
+  ]
+}

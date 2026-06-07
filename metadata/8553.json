@@ -1,0 +1,19 @@
+{
+  "name": "DarkPunk #8553",
+  "description": "DarkPunks NFT Collection Item #8553",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/8553.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Undead"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Front Beard Dark"
+    }
+  ]
+}

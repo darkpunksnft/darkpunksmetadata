@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #1641",
+  "description": "DarkPunks NFT Collection Item #1641",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/1641.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mole"
+    }
+  ]
+}

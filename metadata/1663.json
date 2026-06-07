@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #1663",
+  "description": "DarkPunks NFT Collection Item #1663",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/1663.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Regular Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mole"
+    }
+  ]
+}

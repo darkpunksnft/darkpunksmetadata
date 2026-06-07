@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #8692",
+  "description": "DarkPunks NFT Collection Item #8692",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/8692.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Normal Beard Black"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "3D Glasses"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "DarkPunk #3852",
+  "description": "DarkPunks NFT Collection Item #3852",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/3852.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Eye Patch"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "DarkPunk #82",
+  "description": "DarkPunks NFT Collection Item #82",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/82.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Headband"
+    }
+  ]
+}

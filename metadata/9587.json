@@ -1,0 +1,35 @@
+{
+  "name": "DarkPunk #9587",
+  "description": "DarkPunks NFT Collection Item #9587",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/9587.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Normal Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Small Shades"
+    }
+  ]
+}

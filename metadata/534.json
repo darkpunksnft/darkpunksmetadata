@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #534",
+  "description": "DarkPunks NFT Collection Item #534",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/534.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pigtails"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "VR"
+    }
+  ]
+}

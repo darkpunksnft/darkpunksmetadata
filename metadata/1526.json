@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #1526",
+  "description": "DarkPunks NFT Collection Item #1526",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/1526.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Undead"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Eye Patch"
+    }
+  ]
+}

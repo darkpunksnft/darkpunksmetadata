@@ -1,0 +1,23 @@
+{
+  "name": "DarkPunk #4747",
+  "description": "DarkPunks NFT Collection Item #4747",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/4747.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Undead"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Eyes Blue"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Headband"
+    }
+  ]
+}

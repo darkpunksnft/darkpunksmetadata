@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #2306",
+  "description": "DarkPunks NFT Collection Item #2306",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/2306.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Undead"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mohawk Thin"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    }
+  ]
+}

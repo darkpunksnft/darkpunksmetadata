@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #9074",
+  "description": "DarkPunks NFT Collection Item #9074",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/9074.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Tassle Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Eye Mask"
+    }
+  ]
+}

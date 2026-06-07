@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #2411",
+  "description": "DarkPunks NFT Collection Item #2411",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/2411.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Straight Hair Blonde"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Hot Lipstick"
+    }
+  ]
+}

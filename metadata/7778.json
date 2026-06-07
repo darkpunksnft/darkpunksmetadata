@@ -1,0 +1,35 @@
+{
+  "name": "DarkPunk #7778",
+  "description": "DarkPunks NFT Collection Item #7778",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/7778.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Medical Mask"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mohawk Thin"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Eyes Blue"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #4595",
+  "description": "DarkPunks NFT Collection Item #4595",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/4595.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Blonde Bob"
+    }
+  ]
+}

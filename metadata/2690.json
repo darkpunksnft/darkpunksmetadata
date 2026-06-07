@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #2690",
+  "description": "DarkPunks NFT Collection Item #2690",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/2690.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Blue Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pink With Hat"
+    }
+  ]
+}

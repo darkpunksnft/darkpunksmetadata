@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #1273",
+  "description": "DarkPunks NFT Collection Item #1273",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/1273.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Dark Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
+    }
+  ]
+}

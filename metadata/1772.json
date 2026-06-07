@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #1772",
+  "description": "DarkPunks NFT Collection Item #1772",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/1772.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Blue Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Messy Hair"
+    }
+  ]
+}

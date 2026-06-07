@@ -1,0 +1,35 @@
+{
+  "name": "DarkPunk #4776",
+  "description": "DarkPunks NFT Collection Item #4776",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/4776.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Eye Patch"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Beard"
+    }
+  ]
+}

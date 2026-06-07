@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #4909",
+  "description": "DarkPunks NFT Collection Item #4909",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/4909.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild Hair"
+    }
+  ]
+}

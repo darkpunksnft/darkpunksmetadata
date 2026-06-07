@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #7233",
+  "description": "DarkPunks NFT Collection Item #7233",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/7233.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cap Forward"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    }
+  ]
+}

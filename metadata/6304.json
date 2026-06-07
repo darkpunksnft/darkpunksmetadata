@@ -1,0 +1,23 @@
+{
+  "name": "DarkPunk #6304",
+  "description": "DarkPunks NFT Collection Item #6304",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/6304.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Undead"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Crazy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Regular Shades"
+    }
+  ]
+}

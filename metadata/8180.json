@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #8180",
+  "description": "DarkPunks NFT Collection Item #8180",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/8180.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Small Shades"
+    }
+  ]
+}

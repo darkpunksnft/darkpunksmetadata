@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #6581",
+  "description": "DarkPunks NFT Collection Item #6581",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/6581.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Tiara"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
+    }
+  ]
+}

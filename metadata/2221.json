@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #2221",
+  "description": "DarkPunks NFT Collection Item #2221",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/2221.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Horned Rim Glasses"
+    }
+  ]
+}

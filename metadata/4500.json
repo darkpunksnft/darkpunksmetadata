@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #4500",
+  "description": "DarkPunks NFT Collection Item #4500",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/4500.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Welding Goggles"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Dark Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Lipstick"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "DarkPunk #2243",
+  "description": "DarkPunks NFT Collection Item #2243",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/2243.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Primate"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nerd Glasses"
+    }
+  ]
+}

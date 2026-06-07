@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #1678",
+  "description": "DarkPunks NFT Collection Item #1678",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/1678.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Eyes Green"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Lipstick"
+    }
+  ]
+}

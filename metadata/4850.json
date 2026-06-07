@@ -1,0 +1,19 @@
+{
+  "name": "DarkPunk #4850",
+  "description": "DarkPunks NFT Collection Item #4850",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/4850.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Undead"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Hair"
+    }
+  ]
+}

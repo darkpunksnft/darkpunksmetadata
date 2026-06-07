@@ -1,0 +1,23 @@
+{
+  "name": "DarkPunk #1478",
+  "description": "DarkPunks NFT Collection Item #1478",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/1478.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Undead"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild Hair"
+    }
+  ]
+}

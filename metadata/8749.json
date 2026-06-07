@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #8749",
+  "description": "DarkPunks NFT Collection Item #8749",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/8749.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
+    }
+  ]
+}

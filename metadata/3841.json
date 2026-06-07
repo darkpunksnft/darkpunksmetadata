@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #3841",
+  "description": "DarkPunks NFT Collection Item #3841",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/3841.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Orange Side"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    }
+  ]
+}

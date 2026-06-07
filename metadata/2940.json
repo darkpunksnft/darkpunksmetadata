@@ -1,0 +1,39 @@
+{
+  "name": "DarkPunk #2940",
+  "description": "DarkPunks NFT Collection Item #2940",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/2940.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Spots"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Hot Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Blonde Bob"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Eyes Blue"
+    }
+  ]
+}

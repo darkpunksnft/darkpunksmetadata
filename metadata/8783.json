@@ -1,0 +1,35 @@
+{
+  "name": "DarkPunk #8783",
+  "description": "DarkPunks NFT Collection Item #8783",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/8783.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Peak Spike"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Goat"
+    }
+  ]
+}

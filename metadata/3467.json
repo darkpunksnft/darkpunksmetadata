@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #3467",
+  "description": "DarkPunks NFT Collection Item #3467",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/3467.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Headband"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #4515",
+  "description": "DarkPunks NFT Collection Item #4515",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/4515.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Hair Green"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Eyes Blue"
+    }
+  ]
+}

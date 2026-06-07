@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #9254",
+  "description": "DarkPunks NFT Collection Item #9254",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/9254.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Hair Green"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Eye Patch"
+    }
+  ]
+}

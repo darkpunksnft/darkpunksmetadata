@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #1456",
+  "description": "DarkPunks NFT Collection Item #1456",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/1456.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mole"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #7673",
+  "description": "DarkPunks NFT Collection Item #7673",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/7673.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Shaved Head"
+    }
+  ]
+}

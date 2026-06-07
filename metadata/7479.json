@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #7479",
+  "description": "DarkPunks NFT Collection Item #7479",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/7479.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Normal Beard Black"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "3D Glasses"
+    }
+  ]
+}

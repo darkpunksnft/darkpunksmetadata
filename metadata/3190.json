@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #3190",
+  "description": "DarkPunks NFT Collection Item #3190",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/3190.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Straight Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Hot Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    }
+  ]
+}

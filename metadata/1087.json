@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #1087",
+  "description": "DarkPunks NFT Collection Item #1087",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/1087.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frumpy Hair"
+    }
+  ]
+}

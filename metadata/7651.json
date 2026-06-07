@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #7651",
+  "description": "DarkPunks NFT Collection Item #7651",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/7651.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Normal Beard Black"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Hair Green"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #8045",
+  "description": "DarkPunks NFT Collection Item #8045",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/8045.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Hair Green"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Beard"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #1072",
+  "description": "DarkPunks NFT Collection Item #1072",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/1072.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Stringy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Eye Mask"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Chinstrap"
+    }
+  ]
+}

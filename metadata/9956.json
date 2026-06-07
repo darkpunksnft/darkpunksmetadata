@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #9956",
+  "description": "DarkPunks NFT Collection Item #9956",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/9956.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Messy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Eyes Green"
+    }
+  ]
+}

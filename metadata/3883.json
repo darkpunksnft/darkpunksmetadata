@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #3883",
+  "description": "DarkPunks NFT Collection Item #3883",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/3883.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "VR"
+    }
+  ]
+}

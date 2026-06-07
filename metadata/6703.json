@@ -1,0 +1,35 @@
+{
+  "name": "DarkPunk #6703",
+  "description": "DarkPunks NFT Collection Item #6703",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/6703.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Green Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Blonde Bob"
+    }
+  ]
+}

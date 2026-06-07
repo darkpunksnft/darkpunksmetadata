@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #3765",
+  "description": "DarkPunks NFT Collection Item #3765",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/3765.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Red Mohawk"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Vape"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Eye Shadow"
+    }
+  ]
+}

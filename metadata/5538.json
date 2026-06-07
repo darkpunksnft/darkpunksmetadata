@@ -1,0 +1,35 @@
+{
+  "name": "DarkPunk #5538",
+  "description": "DarkPunks NFT Collection Item #5538",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/5538.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Front Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Police Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nerd Glasses"
+    }
+  ]
+}

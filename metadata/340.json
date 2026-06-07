@@ -1,0 +1,35 @@
+{
+  "name": "DarkPunk #340",
+  "description": "DarkPunks NFT Collection Item #340",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/340.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Medical Mask"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "3D Glasses"
+    }
+  ]
+}
