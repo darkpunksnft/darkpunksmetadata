@@ -14,7 +14,6 @@ function parseCSV(csvText) {
     const lines = csvText.split(/\r?\n/);
     if (lines.length === 0) return [];
 
-    // Standardize headers (handle duplicate names like 'accessories')
     const rawHeaders = lines[0].split(',');
     let accessoryCount = 1;
     const headers = rawHeaders.map(h => {
@@ -74,11 +73,12 @@ fs.readFile(csvFilePath, 'utf8', (err, data) => {
             }
         }
 
+        // Saved without .json extension
         fs.writeFileSync(
-            path.join(outputDir, `${id}.json`),
+            path.join(outputDir, `${id}`),
             JSON.stringify(metadata, null, 2)
         );
     });
 
-    console.log("Successfully generated all metadata files inside 'metadata/' folder!");
+    console.log("Successfully generated all metadata files without extensions!");
 });
