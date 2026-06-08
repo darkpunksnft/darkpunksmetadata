@@ -73,12 +73,12 @@ fs.readFile(csvFilePath, 'utf8', (err, data) => {
             }
         }
 
-        // Saved without .json extension
+        // File saved directly by ID without any extension (.json removed)
         fs.writeFileSync(
             path.join(outputDir, `${id}`),
             JSON.stringify(metadata, null, 2)
         );
     });
 
-    console.log("Successfully generated all metadata files without extensions!");
+    console.log("Successfully generated all extensionless metadata files!");
 });
