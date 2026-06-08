@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #8696",
+  "description": "DarkPunks NFT Collection Item #8696",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/8696.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Vampire Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Medical Mask"
+    }
+  ]
+}

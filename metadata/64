@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #64",
+  "description": "DarkPunks NFT Collection Item #64",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/64.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Straight Hair Blonde"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Lipstick"
+    }
+  ]
+}

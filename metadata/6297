@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #6297",
+  "description": "DarkPunks NFT Collection Item #6297",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/6297.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Undead"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Top Hat"
+    }
+  ]
+}

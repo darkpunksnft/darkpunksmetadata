@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #7322",
+  "description": "DarkPunks NFT Collection Item #7322",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/7322.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Straight Hair Blonde"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nerd Glasses"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #3368",
+  "description": "DarkPunks NFT Collection Item #3368",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/3368.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Fedora"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mole"
+    }
+  ]
+}

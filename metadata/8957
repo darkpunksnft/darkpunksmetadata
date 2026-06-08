@@ -1,0 +1,23 @@
+{
+  "name": "DarkPunk #8957",
+  "description": "DarkPunks NFT Collection Item #8957",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/8957.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Undead"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Luxurious Beard"
+    }
+  ]
+}

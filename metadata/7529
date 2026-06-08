@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #7529",
+  "description": "DarkPunks NFT Collection Item #7529",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/7529.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Eyes Green"
+    }
+  ]
+}

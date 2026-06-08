@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #9353",
+  "description": "DarkPunks NFT Collection Item #9353",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/9353.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Messy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Eye Mask"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Black Lipstick"
+    }
+  ]
+}

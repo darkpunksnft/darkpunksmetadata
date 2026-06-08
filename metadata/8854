@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #8854",
+  "description": "DarkPunks NFT Collection Item #8854",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/8854.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Shades"
+    }
+  ]
+}

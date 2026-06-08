@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #5014",
+  "description": "DarkPunks NFT Collection Item #5014",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/5014.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Straight Hair Blonde"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Eyes Blue"
+    }
+  ]
+}

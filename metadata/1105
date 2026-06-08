@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #1105",
+  "description": "DarkPunks NFT Collection Item #1105",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/1105.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Luxurious Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild Hair"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "DarkPunk #4684",
+  "description": "DarkPunks NFT Collection Item #4684",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/4684.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Do-rag"
+    }
+  ]
+}

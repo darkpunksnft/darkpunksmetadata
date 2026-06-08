@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #8107",
+  "description": "DarkPunks NFT Collection Item #8107",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/8107.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Stringy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    }
+  ]
+}

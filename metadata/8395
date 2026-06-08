@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #8395",
+  "description": "DarkPunks NFT Collection Item #8395",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/8395.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Shaved Head"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Beard"
+    }
+  ]
+}

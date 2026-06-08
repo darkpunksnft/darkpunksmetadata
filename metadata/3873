@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #3873",
+  "description": "DarkPunks NFT Collection Item #3873",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/3873.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Shades"
+    }
+  ]
+}

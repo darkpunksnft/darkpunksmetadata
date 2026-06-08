@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #9387",
+  "description": "DarkPunks NFT Collection Item #9387",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/9387.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Messy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Beard"
+    }
+  ]
+}

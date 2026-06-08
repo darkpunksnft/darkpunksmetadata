@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #9379",
+  "description": "DarkPunks NFT Collection Item #9379",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/9379.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Orange Side"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Medical Mask"
+    }
+  ]
+}

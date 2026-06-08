@@ -1,0 +1,23 @@
+{
+  "name": "DarkPunk #7121",
+  "description": "DarkPunks NFT Collection Item #7121",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/7121.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Undead"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Horned Rim Glasses"
+    }
+  ]
+}

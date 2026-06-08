@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #2182",
+  "description": "DarkPunks NFT Collection Item #2182",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/2182.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Straight Hair Blonde"
+    }
+  ]
+}

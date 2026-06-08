@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #8818",
+  "description": "DarkPunks NFT Collection Item #8818",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/8818.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Medical Mask"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    }
+  ]
+}

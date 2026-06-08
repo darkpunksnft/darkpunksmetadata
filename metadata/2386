@@ -1,0 +1,23 @@
+{
+  "name": "DarkPunk #2386",
+  "description": "DarkPunks NFT Collection Item #2386",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/2386.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Primate"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Small Shades"
+    }
+  ]
+}

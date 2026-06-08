@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #6145",
+  "description": "DarkPunks NFT Collection Item #6145",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/6145.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Primate"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    }
+  ]
+}

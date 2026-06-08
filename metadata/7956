@@ -1,0 +1,39 @@
+{
+  "name": "DarkPunk #7956",
+  "description": "DarkPunks NFT Collection Item #7956",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/7956.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Police Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Goat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Small Shades"
+    }
+  ]
+}

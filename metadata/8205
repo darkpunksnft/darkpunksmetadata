@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #8205",
+  "description": "DarkPunks NFT Collection Item #8205",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/8205.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Front Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Messy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Shades"
+    }
+  ]
+}

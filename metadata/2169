@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #2169",
+  "description": "DarkPunks NFT Collection Item #2169",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/2169.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pilot Helmet"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Lipstick"
+    }
+  ]
+}

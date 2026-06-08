@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #4818",
+  "description": "DarkPunks NFT Collection Item #4818",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/4818.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mohawk Thin"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Goat"
+    }
+  ]
+}

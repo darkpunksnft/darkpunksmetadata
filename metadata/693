@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #693",
+  "description": "DarkPunks NFT Collection Item #693",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/693.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "VR"
+    }
+  ]
+}

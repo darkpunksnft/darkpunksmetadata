@@ -1,0 +1,23 @@
+{
+  "name": "DarkPunk #182",
+  "description": "DarkPunks NFT Collection Item #182",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/182.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Peak Spike"
+    }
+  ]
+}

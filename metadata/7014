@@ -1,0 +1,23 @@
+{
+  "name": "DarkPunk #7014",
+  "description": "DarkPunks NFT Collection Item #7014",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/7014.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Undead"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frumpy Hair"
+    }
+  ]
+}

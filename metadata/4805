@@ -1,0 +1,35 @@
+{
+  "name": "DarkPunk #4805",
+  "description": "DarkPunks NFT Collection Item #4805",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/4805.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Crazy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Eyes Green"
+    }
+  ]
+}

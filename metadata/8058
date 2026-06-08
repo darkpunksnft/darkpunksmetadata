@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #8058",
+  "description": "DarkPunks NFT Collection Item #8058",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/8058.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Straight Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Hot Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Regular Shades"
+    }
+  ]
+}

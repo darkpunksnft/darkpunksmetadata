@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #6185",
+  "description": "DarkPunks NFT Collection Item #6185",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/6185.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mohawk Thin"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Normal Beard"
+    }
+  ]
+}

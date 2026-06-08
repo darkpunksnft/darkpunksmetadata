@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #9597",
+  "description": "DarkPunks NFT Collection Item #9597",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/9597.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Beard"
+    }
+  ]
+}

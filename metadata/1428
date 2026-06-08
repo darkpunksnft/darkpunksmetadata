@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #1428",
+  "description": "DarkPunks NFT Collection Item #1428",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/1428.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Blonde Short"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Eyes Blue"
+    }
+  ]
+}

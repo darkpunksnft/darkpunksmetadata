@@ -1,0 +1,35 @@
+{
+  "name": "DarkPunk #2608",
+  "description": "DarkPunks NFT Collection Item #2608",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/2608.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Spots"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Hot Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Classic Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Half Shaved"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "DarkPunk #2487",
+  "description": "DarkPunks NFT Collection Item #2487",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/2487.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Knitted Cap"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #3001",
+  "description": "DarkPunks NFT Collection Item #3001",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/3001.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Vampire Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nerd Glasses"
+    }
+  ]
+}

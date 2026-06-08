@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #1118",
+  "description": "DarkPunks NFT Collection Item #1118",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/1118.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cap Forward"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Smile"
+    }
+  ]
+}

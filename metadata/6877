@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #6877",
+  "description": "DarkPunks NFT Collection Item #6877",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/6877.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Classic Shades"
+    }
+  ]
+}

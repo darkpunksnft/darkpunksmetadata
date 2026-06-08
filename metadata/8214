@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #8214",
+  "description": "DarkPunks NFT Collection Item #8214",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/8214.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Luxurious Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Do-rag"
+    }
+  ]
+}

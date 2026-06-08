@@ -1,0 +1,23 @@
+{
+  "name": "DarkPunk #732",
+  "description": "DarkPunks NFT Collection Item #732",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/732.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Tassle Hat"
+    }
+  ]
+}

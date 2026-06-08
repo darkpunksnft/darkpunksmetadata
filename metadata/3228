@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #3228",
+  "description": "DarkPunks NFT Collection Item #3228",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/3228.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Chinstrap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Do-rag"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Eye Patch"
+    }
+  ]
+}

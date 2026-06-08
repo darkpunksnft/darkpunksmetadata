@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #7238",
+  "description": "DarkPunks NFT Collection Item #7238",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/7238.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mole"
+    }
+  ]
+}

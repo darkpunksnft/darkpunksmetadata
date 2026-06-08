@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #2180",
+  "description": "DarkPunks NFT Collection Item #2180",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/2180.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wild White Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Welding Goggles"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Lipstick"
+    }
+  ]
+}

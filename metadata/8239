@@ -1,0 +1,35 @@
+{
+  "name": "DarkPunk #8239",
+  "description": "DarkPunks NFT Collection Item #8239",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/8239.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Eye Mask"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Black Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Bandana"
+    }
+  ]
+}

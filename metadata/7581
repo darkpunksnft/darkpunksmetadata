@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #7581",
+  "description": "DarkPunks NFT Collection Item #7581",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/7581.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Eye Mask"
+    }
+  ]
+}

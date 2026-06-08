@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #6437",
+  "description": "DarkPunks NFT Collection Item #6437",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/6437.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Horned Rim Glasses"
+    }
+  ]
+}

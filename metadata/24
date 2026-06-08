@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #24",
+  "description": "DarkPunks NFT Collection Item #24",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/24.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mohawk Dark"
+    }
+  ]
+}

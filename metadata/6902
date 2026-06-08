@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #6902",
+  "description": "DarkPunks NFT Collection Item #6902",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/6902.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Tassle Hat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Blue Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Black Lipstick"
+    }
+  ]
+}

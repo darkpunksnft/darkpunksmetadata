@@ -1,0 +1,23 @@
+{
+  "name": "DarkPunk #6586",
+  "description": "DarkPunks NFT Collection Item #6586",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/6586.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Undead"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Smile"
+    }
+  ]
+}

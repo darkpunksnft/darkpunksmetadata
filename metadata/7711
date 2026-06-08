@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #7711",
+  "description": "DarkPunks NFT Collection Item #7711",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/7711.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frown"
+    }
+  ]
+}

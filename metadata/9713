@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #9713",
+  "description": "DarkPunks NFT Collection Item #9713",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/9713.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mohawk Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Eyes Blue"
+    }
+  ]
+}

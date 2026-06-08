@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #7932",
+  "description": "DarkPunks NFT Collection Item #7932",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/7932.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Knitted Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Purple Lipstick"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nerd Glasses"
+    }
+  ]
+}

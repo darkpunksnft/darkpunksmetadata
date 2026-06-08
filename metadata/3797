@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #3797",
+  "description": "DarkPunks NFT Collection Item #3797",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/3797.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Do-rag"
+    }
+  ]
+}

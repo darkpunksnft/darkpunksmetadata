@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #7164",
+  "description": "DarkPunks NFT Collection Item #7164",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/7164.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Fedora"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    }
+  ]
+}

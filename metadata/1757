@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #1757",
+  "description": "DarkPunks NFT Collection Item #1757",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/1757.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Shaved Head"
+    }
+  ]
+}

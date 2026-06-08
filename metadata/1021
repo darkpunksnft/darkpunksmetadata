@@ -1,0 +1,23 @@
+{
+  "name": "DarkPunk #1021",
+  "description": "DarkPunks NFT Collection Item #1021",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/1021.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Primate"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cap"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Eye Patch"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "DarkPunk #4785",
+  "description": "DarkPunks NFT Collection Item #4785",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/4785.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Luxurious Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Rosy Cheeks"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Medical Mask"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mohawk Dark"
+    }
+  ]
+}

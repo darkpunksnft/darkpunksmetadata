@@ -1,0 +1,23 @@
+{
+  "name": "DarkPunk #5412",
+  "description": "DarkPunks NFT Collection Item #5412",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/5412.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Undead"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Crazy Hair"
+    }
+  ]
+}

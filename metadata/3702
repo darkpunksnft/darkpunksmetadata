@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #3702",
+  "description": "DarkPunks NFT Collection Item #3702",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/3702.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Hair Green"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Small Shades"
+    }
+  ]
+}

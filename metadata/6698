@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #6698",
+  "description": "DarkPunks NFT Collection Item #6698",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/6698.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Eyes Green"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Hot Lipstick"
+    }
+  ]
+}

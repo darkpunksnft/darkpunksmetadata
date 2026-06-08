@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #2294",
+  "description": "DarkPunks NFT Collection Item #2294",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/2294.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Luxurious Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Shades"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #2188",
+  "description": "DarkPunks NFT Collection Item #2188",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/2188.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cap Forward"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Front Beard Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    }
+  ]
+}

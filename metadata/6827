@@ -1,0 +1,35 @@
+{
+  "name": "DarkPunk #6827",
+  "description": "DarkPunks NFT Collection Item #6827",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/6827.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Shades"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Mohawk"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #5061",
+  "description": "DarkPunks NFT Collection Item #5061",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/5061.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Frumpy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Big Beard"
+    }
+  ]
+}

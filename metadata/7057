@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #7057",
+  "description": "DarkPunks NFT Collection Item #7057",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/7057.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pilot Helmet"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Hot Lipstick"
+    }
+  ]
+}

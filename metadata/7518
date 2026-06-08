@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #7518",
+  "description": "DarkPunks NFT Collection Item #7518",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/7518.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Balanced"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Peak Spike"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Classic Shades"
+    }
+  ]
+}

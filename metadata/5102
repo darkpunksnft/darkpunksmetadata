@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #5102",
+  "description": "DarkPunks NFT Collection Item #5102",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/5102.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Green Eye Shadow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Crazy Hair"
+    }
+  ]
+}

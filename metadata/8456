@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #8456",
+  "description": "DarkPunks NFT Collection Item #8456",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/8456.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Feminine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Pale"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Stringy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Cigarette"
+    }
+  ]
+}

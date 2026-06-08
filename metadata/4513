@@ -1,0 +1,27 @@
+{
+  "name": "DarkPunk #4513",
+  "description": "DarkPunks NFT Collection Item #4513",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/4513.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Undead"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Luxurious Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    }
+  ]
+}

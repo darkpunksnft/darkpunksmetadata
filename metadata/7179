@@ -1,0 +1,31 @@
+{
+  "name": "DarkPunk #7179",
+  "description": "DarkPunks NFT Collection Item #7179",
+  "image": "https://raw.githubusercontent.com/darkpunksnft/darkpunksimages/main/images/7179.png",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Masculine"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Light"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Messy Hair"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Shadow Beard"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Earring"
+    }
+  ]
+}
